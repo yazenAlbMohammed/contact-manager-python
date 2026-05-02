@@ -1,0 +1,51 @@
+name;email;phone;company;tags
+John Smith;john.smith@email.com;(555) 123-4567;Tech Corp;"client;premium"
+Jon Smith;john.smith@email.com;(555) 123-4567;Tech Corp;"client;premium"
+Sarah Johnson;sarah.j@company.com;(555) 234-5678;Marketing Pro;"lead;marketing"
+Michael Brown;michael.b@gmail.com;(555) 345-6789;Startup Inc;"partner;tech"
+Emily Davis;emily.davis@enterprise.com;(555) 456-7890;Enterprise LLC;"client;vip"
+Robert Wilson;robert.w@email.com;(555) 567-8901;Design Studio;"lead;creative"
+Bob Wilson;bob.wilson@email.com;(555) 567-8901;Design Studio;"lead;creative"
+Jennifer Martinez;jennifer.m@gmail.com;(555) 678-9012;Consulting Group;client
+David Anderson;david.a@company.com;(555) 789-0123;Tech Solutions;"partner;premium"
+Lisa Taylor;lisa.taylor@startup.com;(555) 890-1234;Innovation Labs;"lead;tech"
+James Thomas;james.t@email.com;(555) 901-2345;Financial Services;"client;finance"
+Mary Johnson;mary.j@email.com;(555) 999-8888;HR Consultants;partner
+Mary Johnson;maryjohnson@gmail.com;(555) 999-8888;HR Consultants;partner
+William Jackson;william.j@gmail.com;(555) 012-3456;Legal Advisors;"vip;legal"
+Patricia White;patricia.w@company.com;(555) 123-4568;Real Estate Co;client
+Christopher Harris;chris.h@email.com;(555) 234-5679;Tech Startup;"lead;tech"
+Barbara Martin;barbara.m@enterprise.com;(555) 345-6780;Marketing Agency;"client;marketing"
+Daniel Thompson;daniel.t@gmail.com;(555) 456-7891;Software House;"partner;tech"
+Jessica Garcia;jessica.g@company.com;(555) 567-8902;Design Co;"creative;lead"
+Matthew Robinson;matthew.r@email.com;(555) 678-9013;Consulting Firm;client
+Ashley Clark;ashley.c@startup.com;(555) 789-0124;Tech Innovators;"lead;premium"
+Andrew Rodriguez;andrew.r@gmail.com;(555) 890-1235;Finance Group;"client;finance"
+Melissa Lewis;melissa.l@company.com;(555) 901-2346;HR Solutions;partner
+Joshua Lee;joshua.l@email.com;(555) 012-3457;Legal Services;"vip;legal"
+Amanda Walker;amanda.w@gmail.com;(555) 123-4569;Real Estate Pro;client
+Kevin Hall;kevin.h@company.com;(555) 234-5670;Tech Company;"tech;partner"
+Stephanie Allen;stephanie.a@email.com;(555) 345-6781;Marketing Experts;"client;marketing"
+Brian Young;brian.y@gmail.com;(555) 456-7892;Software Developers;"tech;lead"
+Nicole Hernandez;nicole.h@company.com;(555) 567-8903;Design Agency;creative
+Ryan King;ryan.k@email.com;(555) 678-9014;Consulting LLC;"client;premium"
+Lauren Wright;lauren.w@startup.com;(555) 789-0125;Innovation Hub;lead
+Justin Lopez;justin.l@gmail.com;(555) 890-1236;Finance Advisors;"finance;vip"
+Rachel Hill;rachel.h@company.com;(555) 901-2347;HR Partners;partner
+Brandon Scott;brandon.s@email.com;(555) 012-3458;Legal Firm;"legal;client"
+Samantha Green;samantha.g@gmail.com;(555) 123-4560;Real Estate Group;client
+Tyler Adams;tyler.a@company.com;(555) 234-5671;Tech Solutions Inc;"tech;partner"
+Brittany Baker;brittany.b@email.com;(555) 345-6782;Marketing Pro;"marketing;lead"
+Jonathan Gonzalez;jonathan.g@gmail.com;(555) 456-7893;Software Studio;"tech;client"
+Megan Nelson;megan.n@company.com;(555) 567-8904;Design House;"creative;partner"
+Nathan Carter;nathan.c@email.com;(555) 678-9015;Consulting Services;client
+Amber Mitchell;amber.m@startup.com;(555) 789-0126;Innovation Co;"lead;premium"
+Austin Perez;austin.p@gmail.com;(555) 890-1237;Finance Solutions;"finance;client"
+Crystal Roberts;crystal.r@company.com;(555) 901-2348;HR Experts;partner
+Zachary Turner;zachary.t@email.com;(555) 012-3459;Legal Consulting;"legal;vip"
+Danielle Phillips;danielle.p@gmail.com;(555) 123-4561;Real Estate Advisors;client
+Kyle Campbell;kyle.c@company.com;(555) 234-5672;Tech Innovators LLC;"tech;lead"
+Rebecca Parker;rebecca.p@email.com;(555) 345-6783;Marketing Group;"marketing;client"
+Aaron Evans;aaron.e@gmail.com;(555) 456-7894;Software Solutions;"tech;partner"
+Heather Edwards;heather.e@company.com;(555) 567-8905;Design Experts;"creative;lead"
+Adam Collins;adam.c@email.com;(555) 678-9016;Consulting Pro;"client;premium"

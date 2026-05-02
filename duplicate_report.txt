@@ -1,0 +1,24 @@
+================================================================================
+DUPLICATE DETECTION REPORT
+================================================================================
+
+Found 3 potential duplicate pairs:
+
+Pair 1:
+  Contact A: John Smith | john.smith@email.com | (555) 123-4567
+  Contact B: Jon Smith | john.smith@email.com | (555) 123-4567
+  Reasons: Same email, Same phone, Similar names (95% match)
+--------------------------------------------------------------------------------
+
+Pair 2:
+  Contact A: Robert Wilson | robert.w@email.com | (555) 567-8901
+  Contact B: Bob Wilson | bob.wilson@email.com | (555) 567-8901
+  Reasons: Same phone
+--------------------------------------------------------------------------------
+
+Pair 3:
+  Contact A: Mary Johnson | mary.j@email.com | (555) 999-8888
+  Contact B: Mary Johnson | maryjohnson@gmail.com | (555) 999-8888
+  Reasons: Same phone, Similar names (100% match)
+--------------------------------------------------------------------------------
+
